@@ -1,0 +1,14 @@
+name: TapCommand
+main: TapCommand\TapCommand
+api: [1.12.0, 1.13.0, 2.0.0, 3.0.0, 4.0.0, 3.3.0]
+version: 0.1.0
+author: DarkByx
+commands:
+  tc:
+    description: crear blockes interactivos
+    permission: tc.command
+
+  cmd:
+    description: ejecutar comandos en otros jugadores
+    default: op
+    permission: cmd.command
