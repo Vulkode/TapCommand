@@ -2,7 +2,7 @@ name: TapCommand
 main: TapCommand\TapCommand
 api: [1.12.0, 1.13.0, 2.0.0, 3.0.0, 4.0.0, 3.3.0]
 version: 0.1.0
-author: DarkByx
+author: CodeB3
 commands:
   tc:
     description: crear blockes interactivos
