@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CodeB3/TapCommand
+branches:
+- master
+projects:
+  TapCommand:
+    path: ""
+...
